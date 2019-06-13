@@ -18,7 +18,7 @@ Small Script for loging into college, or office wifi using Mozilla Firefox web b
    Example:  
    export PATH=$PATH:/home/usr/geckodriver-v0.24.0-linux64
 
-5. After that make script.sh file executable by using 'chmod +x' command.(use sudo if required)
+5. After that make script.sh file executable by using '''chmod +x''' command.(use sudo if required)
 
 6. then run the script.sh on terminal while connected to Wifi.
 
