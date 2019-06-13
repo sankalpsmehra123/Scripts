@@ -4,7 +4,7 @@ Small Script for loging into college, or office wifi using Mozilla Firefox web b
 
 1. Download or clone the script to your local machine. (preferably in home folder)
 
-2. Download geckodriver for mozilla firefox ([link Given Below][1])
+2. Download geckodriver for mozilla firefox ([link][1])
 
 3. Change perameters website_link, username1, and password1 in script.py file  
 
@@ -18,7 +18,7 @@ Small Script for loging into college, or office wifi using Mozilla Firefox web b
    Example:  
    export PATH=$PATH:/home/usr/geckodriver-v0.24.0-linux64
 
-5. After that make script.sh file executable by using '''chmod +x''' command.(use sudo if required)
+5. After that make script.sh file executable by using chmod command. (use sudo if required)
 
 6. then run the script.sh on terminal while connected to Wifi.
 
